@@ -1,7 +1,5 @@
 # Bootstrap HTML Code Along Repository
 
-## Overview
-
-This lesson is intended to be used in the Bootstrap section of this course.
-Fork and close this repository so you can follow along in the provided videos
-and preserve your work from each lesson.
+# Exceptional Realty Website (bootstrapped Version)
+# This is an example website suing the Twitter Bootstrap framework.
+# More info on using Bootstrap can be found on getbootstrap.com
